@@ -1,7 +1,9 @@
+!(images)[https://www.gndec.ac.in/logo.png]
 **NAME**    - Tarun Sehgal\
 **CRN**     - 1921107\
 **SUBJECT** - PPS ESC 104\
-**BRANCH**  - IT B2\
+**BRANCH**  - IT B2
+
 ### 1 Program to find sum of two numbers
 ```C
 #include<stdio.h>
