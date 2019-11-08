@@ -1,4 +1,4 @@
-!(images)[https://www.gndec.ac.in/logo.png]
+![images](https://www.gndec.ac.in/logo.png)
 **NAME**    - Tarun Sehgal\
 **CRN**     - 1921107\
 **SUBJECT** - PPS ESC 104\
